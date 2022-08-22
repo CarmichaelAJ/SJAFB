@@ -17,7 +17,7 @@ const RESOURCES = {
 "assets/lib/icons/soldier.png": "722de7fc17aeb2cba20e5ff05b029052",
 "assets/lib/icons/tooth.jpg": "822c080fb54862cf191618c9ff104f80",
 "assets/lib/icons/wallpaper.jpg": "dc64ed6b151b7ea34220f2aca5786e38",
-"assets/NOTICES": "fd1ed86adee5f0d6e15edbcd0df36e4d",
+"assets/NOTICES": "9b937eba6608c45ad35500bfe91fd8b6",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
@@ -28,9 +28,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "686010708b96ac661748e0e12d4163e4",
-"/": "686010708b96ac661748e0e12d4163e4",
-"main.dart.js": "84390f076d791eede345341472c47170",
+"index.html": "8b210d4de696680af71f044182b3a671",
+"/": "8b210d4de696680af71f044182b3a671",
+"main.dart.js": "533737eb65c98cb64cb9407587e8aa57",
 "manifest.json": "a5f8ea03656eb19406fa3a3017902bd0",
 "version.json": "b3dfdec53d9e4f0e45e0e916903f3dfe"
 };
